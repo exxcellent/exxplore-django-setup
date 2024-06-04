@@ -6,7 +6,8 @@ for the eXXplore the unknown - Django track.
 ## Prerequisites
 
 * Python 3.11 (or Python 3.12) - https://www.python.org/
-* Python Poetry dependency management tool - https://python-poetry.org/docs/
+* Python Poetry dependency management tool 1.8.x - https://python-poetry.org/docs/
+* IDE: PyCharm Community Edition 2024.x (preferred) or VS Code (or another editor you are comfortable with)
 
 ### Installation hints
 
